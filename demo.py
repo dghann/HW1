@@ -1,2 +1,2 @@
-for i in ('demo'):
+for i in ('demon'):
     print(i)
